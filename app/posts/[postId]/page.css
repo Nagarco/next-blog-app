@@ -1,0 +1,10 @@
+main, strong{
+    color: white !important;
+}
+
+main h1 {
+    color: #f5b132 !important;
+    margin-top: 30px !important;
+    margin-bottom: 5px !important;
+}
+
